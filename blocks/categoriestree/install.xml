@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<extension>
+	<type>block</type>
+	<id>categoriestree</id>
+	<name>Дерево категорий</name>
+	<version>2.0001</version>
+	<system>2.0700</system>
+	<sort>6</sort>
+</extension>

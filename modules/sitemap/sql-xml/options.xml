@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<options>
+	<option>
+		<idgroup>0</idgroup>
+		<name>Разделы в карте</name>
+		<var>sections</var>
+		<type>string</type>
+	</option>
+</options>

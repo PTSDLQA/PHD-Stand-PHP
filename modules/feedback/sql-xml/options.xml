@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<options>
+	<option>
+		<idgroup>0</idgroup>
+		<name>Текст</name>
+		<var>content</var>
+		<type>string</type>
+	</option>
+	<option>
+		<idgroup>1</idgroup>
+		<name>Уведомление о новом сообщении на email</name>
+		<var>email</var>
+		<type>string</type>
+	</option>
+	<option>
+		<idgroup>1</idgroup>
+		<name>Шаблон письма</name>
+		<var>template</var>
+		<value>mail.tpl</value>
+		<type>mailtpl</type>
+	</option>
+</options>

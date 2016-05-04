@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<extension>
+	<type>module</type>
+	<id>sitemap</id>
+	<name>Карта сайта</name>
+	<multiple>N</multiple>
+	<version>2.0103</version>
+	<system>2.0707</system>
+	<sort>11</sort>
+</extension>

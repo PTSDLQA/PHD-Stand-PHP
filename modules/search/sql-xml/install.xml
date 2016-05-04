@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<extension>
+	<type>module</type>
+	<id>search</id>
+	<name>Поиск по сайту</name>
+	<multiple>N</multiple>
+	<version>2.0008</version>
+	<system>2.0707</system>
+	<sort>10</sort>
+</extension>

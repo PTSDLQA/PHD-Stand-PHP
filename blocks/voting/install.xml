@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<extension>
+	<type>block</type>
+	<id>voting</id>
+	<name>Форма голосования</name>
+	<owner>voting</owner>
+	<version>2.0001</version>
+	<system>2.0600</system>
+	<sort>9</sort>
+</extension>

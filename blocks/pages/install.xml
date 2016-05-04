@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<extension>
+	<type>block</type>
+	<id>pages</id>
+	<name>Список страниц</name>
+	<owner>pages</owner>
+	<version>2.0006</version>
+	<system>2.0601</system>
+	<sort>8</sort>
+</extension>

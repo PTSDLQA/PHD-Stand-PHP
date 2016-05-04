@@ -1,0 +1,1 @@
+ALTER TABLE `{section}` ADD `inmap` enum('Y','N') NOT NULL default 'Y';

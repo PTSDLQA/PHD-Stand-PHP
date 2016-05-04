@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<options>
+	<option>
+		<idgroup>1</idgroup>
+		<name>Количество результатов на странице</name>
+		<var>rows</var>
+		<value>10</value>
+		<type>int</type>
+	</option>
+</options>

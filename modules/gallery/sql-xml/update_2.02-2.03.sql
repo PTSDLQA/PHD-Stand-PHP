@@ -1,0 +1,1 @@
+UPDATE `{domain}_options` SET `superonly`='Y' WHERE `item`='{section}' AND `var`='mysort';

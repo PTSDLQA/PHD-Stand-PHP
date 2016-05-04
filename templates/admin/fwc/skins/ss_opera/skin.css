@@ -1,0 +1,93 @@
+
+.ss_opera_SelectDiv {
+                cursor:default;
+                position:relative;
+                padding:0px;
+                }
+
+.ss_opera_OptionsDiv {
+                -moz-user-select:none;
+                cursor:default;
+                position:absolute;
+                left:0px;top:20px;
+                text-align:left;
+                color:black;
+                font-family:Arial;
+                font-size:12px;
+                background:white;
+                border:1px solid black;
+                padding:0px;
+                scrollbar-face-color:#E0DFE3;
+                scrollbar-3dlight-color:#B3B3B3;
+                scrollbar-highlight-color:#E0DFE3;
+                scrollbar-arrow-color:black;
+                scrollbar-darkshadow-color:#E0DFE3;
+                scrollbar-shadow-color:#B3B3B3;
+                }
+
+
+.ss_opera_Title {
+                cursor:default;
+                display:inline;
+                height:20px;
+                color:black;
+                font-family:Arial;
+                font-size:12px;
+                border:1px solid #999999;
+                margin:0px;
+                margin-left:2px;
+                }
+
+.ss_opera_Button {
+                width:18px;
+                cursor:default;
+                display:inline;
+                height:20px;
+                color:black;
+                font-family:Arial;
+                font-size:12px;
+                background:white url('darr_ou.png') no-repeat 0px center;
+                border:1px solid #999999;
+                border-left:0px;
+                padding-left:2px;
+                margin:0px;
+                }
+
+.ss_opera_Option_Free_Out {
+                display:block;
+                overflow:hidden;
+                color:black;
+                cursor:default;
+                line-height:16px;
+                padding-left:2px;
+                }
+
+.ss_opera_Option_Free_Over {
+                display:block;
+                overflow:hidden;
+                cursor:default;
+                color: white;
+                background:#316AC5;
+                line-height:16px;
+                padding-left:2px;
+                }
+
+.ss_opera_Option_Sel_Out {
+                display:block;
+                overflow:hidden;
+                cursor:default;
+                color: white;
+                background:#316AC5;
+                line-height:16px;
+                padding-left:2px;
+                }
+
+.ss_opera_Option_Sel_Over {
+                display:block;
+                overflow:hidden;
+                cursor:default;
+                color: white;
+                background:#316AC5;
+                line-height:16px;
+                padding-left:2px;
+                }

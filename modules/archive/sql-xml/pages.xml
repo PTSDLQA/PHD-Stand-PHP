@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<pages>
+	<page>
+		<id>archive</id>
+		<name>Страница архива</name>
+		<template>archive_page.tpl</template>
+	</page>
+</pages>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<options>
+	<option>
+		<idgroup>1</idgroup>
+		<name>Использовать теги (тематические метки)</name>
+		<var>usetags</var>
+		<type>bool</type>
+	</option>
+	<option>
+		<idgroup>1</idgroup>
+		<name>Шаблон для новых страниц</name>
+		<var>tpldefault</var>
+		<value>pages_page.tpl</value>
+		<type>string</type>
+	</option>
+</options>

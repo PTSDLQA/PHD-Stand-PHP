@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<pages>
+	<page>
+		<id>main</id>
+		<name>Главная страница</name>
+		<template>gallery_main.tpl</template>
+	</page>
+	<page>
+		<id>category</id>
+		<name>Страница категории</name>
+		<template>gallery_category.tpl</template>
+	</page>
+	<page>
+		<id>album</id>
+		<name>Страница альбома</name>
+		<template>gallery_album.tpl</template>
+	</page>
+</pages>

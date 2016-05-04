@@ -1,0 +1,97 @@
+﻿
+.ss_winxp_SelectDiv {
+                cursor:default;
+                position:relative;
+                padding:0px;
+                }
+
+.ss_winxp_OptionsDiv {
+                -moz-user-select:none;
+                cursor:default;
+                position:absolute;
+                left:0px;top:22px;
+                text-align:left;
+                color:black;
+                font-family:'Arial Unicode MS';
+                font-size:14px;
+                background:white;
+                border:1px solid black;
+                padding:0px;
+                }
+
+
+.ss_winxp_Title {
+                cursor:default;
+                display:inline;
+                height:22px;
+                color:black;
+                font-family:'Microsoft Sans Serif';
+                font-size:10pt;
+                border:1px solid #7F9DB9;
+                margin:0px;
+                margin-left:2px;
+                }
+
+.ss_winxp_Button {
+                width:18px;
+                cursor:default;
+                display:inline;
+                height:22px;
+                color:black;
+                font-family:'Microsoft Sans Serif';
+                font-size:10pt;
+                background:white url('darr_ou.png') no-repeat right top;
+                border:1px solid #7F9DB9;
+                border-left:0px;
+                margin:0px;
+                }
+
+.ss_winxp_Option_Free_Out {
+                display:block;
+                overflow:hidden;
+                font-family:'Microsoft Sans Serif';
+                font-size:10pt;
+                color:black;
+                cursor:default;
+                line-height:16px;
+                padding-left:2px;
+                }
+
+.ss_winxp_Option_Free_Over {
+                display:block;
+                overflow:hidden;
+                cursor:default;
+                font-family:'Microsoft Sans Serif';
+                font-size:10pt;
+                color: white;
+                background:#316AC5;
+                line-height:16px;
+                padding:0px;
+                padding-left:2px;
+                }
+
+.ss_winxp_Option_Sel_Out {
+                display:block;
+                overflow:hidden;
+                cursor:default;
+                font-family:'Microsoft Sans Serif';
+                font-size:10pt;
+                color: white;
+                background:#316AC5;
+                line-height:16px;
+                padding:0px;
+                padding-left:2px;
+                }
+
+.ss_winxp_Option_Sel_Over {
+                display:block;
+                overflow:hidden;
+                cursor:default;
+                font-family:'Microsoft Sans Serif';
+                font-size:10pt;
+                color: white;
+                background:#316AC5;
+                line-height:16px;
+                padding:0px;
+                padding-left:2px;
+                }

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<pages>
+	<page>
+		<id>main</id>
+		<name>Cтраница формы обратной связи</name>
+		<template>feedback_main.tpl</template>
+	</page>
+ <page>
+		<id>message</id>
+		<name>Cтраница сообщения</name>
+		<template>feedback_message.tpl</template>
+	</page>
+</pages>

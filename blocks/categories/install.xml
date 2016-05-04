@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<extension>
+	<type>block</type>
+	<id>categories</id>
+	<name>Список категорий</name>
+	<version>2.0008</version>
+	<system>2.0700</system>
+	<sort>5</sort>
+</extension>

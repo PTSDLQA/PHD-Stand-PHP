@@ -1,0 +1,52 @@
+/* -------------------------------------------------------------------
+// markItUp!
+// By Jay Salvat - http://markitup.jaysalvat.com/
+// ------------------------------------------------------------------*/
+.bbcode .markItUpButton1 a	{
+	background-image:url(../bbcode/images/bold.png);
+	width:22px;
+	padding-left:0px;
+	padding-right:0px;
+}
+.bbcode .markItUpButton2 a	{
+	background-image:url(../bbcode/images/italic.png);
+	width:22px;
+	padding-left:0px;
+	padding-right:0px;
+}
+.bbcode .markItUpButton3 a	{
+	background-image:url(../bbcode/images/underline.png);
+	width:22px;
+	padding-left:0px;
+	padding-right:0px;
+}
+.bbcode .markItUpButton4 a	{
+	background-image:url(../bbcode/images/picture.png);
+	width:22px;
+	padding-left:0px;
+	padding-right:0px;
+}
+.bbcode .markItUpButton5 a	{
+	background-image:url(../bbcode/images/link.png);
+	width:22px;
+	padding-left:0px;
+	padding-right:0px;
+}
+.bbcode .markItUpButton6 a	{
+	background-image:url(../bbcode/images/list-bullet.png);
+	width:22px;
+	padding-left:0px;
+	padding-right:0px;
+}
+.bbcode .markItUpButton7 a	{
+	background-image:url(../bbcode/images/list-numeric.png);
+	width:22px;
+	padding-left:0px;
+	padding-right:0px;
+}
+.bbcode .markItUpButton8 a	{
+	background-image:url(../bbcode/images/list-item.png);
+	width:22px;
+	padding-left:0px;
+	padding-right:0px;
+}

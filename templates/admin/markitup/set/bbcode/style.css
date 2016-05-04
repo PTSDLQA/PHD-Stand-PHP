@@ -1,0 +1,191 @@
+/* -------------------------------------------------------------------
+// markItUp!
+// By Jay Salvat - http://markitup.jaysalvat.com/
+// ------------------------------------------------------------------*/
+.bbcode .markItUpButton1 a	{
+	background-image:url(images/bold.png);
+	width:22px;
+	padding-left:0px;
+	padding-right:0px;
+}
+.bbcode .markItUpButton2 a	{
+	background-image:url(images/italic.png);
+	width:22px;
+	padding-left:0px;
+	padding-right:0px;
+}
+.bbcode .markItUpButton3 a	{
+	background-image:url(images/underline.png);
+	width:22px;
+	padding-left:0px;
+	padding-right:0px;
+}
+.bbcode .markItUpButton4 a	{
+	background-image:url(images/picture.png);
+	width:22px;
+	padding-left:0px;
+	padding-right:0px;
+}
+.bbcode .markItUpButton5 a	{
+	background-image:url(images/link.png);
+	width:22px;
+	padding-left:0px;
+	padding-right:0px;
+}
+.bbcode .markItUpButton6 a {
+	background-image:url(images/colors.png);
+	margin:0px;
+}
+	.bbcode .markItUpButton6 ul {
+		width:81px;
+		padding:1px;
+	}
+	.bbcode .markItUpButton6  li {
+		border:1px solid white;
+		width:25px;	height:25px;
+		overflow:hidden;
+		padding:0px; margin:0px;
+		float:left;
+	}
+	.bbcode .markItUpButton6 ul a {
+		width:25px;	height:25px;
+	}
+ .bbcode .markItUpButton6 ul a:hover {
+		background-color:none;
+	}
+
+	.bbcode .markItUpButton6 .col1-1 a {
+		background:yellow;
+	}
+	.bbcode .markItUpButton6 .col1-2 a {
+		background:orange;
+	}
+	.bbcode .markItUpButton6 .col1-3 a {
+		background:red;
+	}
+
+	.bbcode .markItUpButton6 .col2-1 a {
+		background:blue;
+	}
+	.bbcode .markItUpButton6 .col2-2 a {
+		background:purple;
+	}
+	.bbcode .markItUpButton6 .col2-3 a {
+		background:green;
+	}
+
+	.bbcode .markItUpButton6 .col3-1 a {
+		background:white;
+	}
+	.bbcode .markItUpButton6 .col3-2 a {
+		background:gray;
+	}
+	.bbcode .markItUpButton6 .col3-3 a {
+		background:black;
+	}
+
+.bbcode .markItUpButton7 a	{
+	background-image:url(images/fonts.png);
+}
+.bbcode .markItUpButton8 a	{
+	background-image:url(images/list-bullet.png);
+	width:22px;
+	padding-left:0px;
+	padding-right:0px;
+}
+.bbcode .markItUpButton9 a	{
+	background-image:url(images/list-numeric.png);
+	width:22px;
+	padding-left:0px;
+	padding-right:0px;
+}
+.bbcode .markItUpButton10 a	{
+	background-image:url(images/list-item.png);
+	width:22px;
+	padding-left:0px;
+	padding-right:0px;
+}
+.bbcode .markItUpButton11 a	{
+	background-image:url(images/quotes.png);
+	width:22px;
+	padding-left:0px;
+	padding-right:0px;
+}
+.bbcode .markItUpButton12 a	{
+	background-image:url(images/code.png);
+	width:22px;
+	padding-left:0px;
+	padding-right:0px;
+}
+.bbcode .markItUpButton13 a	{
+	background-image:url(/templates/admin/images/smiles/wink.gif);
+	width:22px;
+	padding-left:0px;
+	padding-right:0px;
+}
+.bbcode .markItUpButton14 a	{
+	background-image:url(/templates/admin/images/smiles/smile.gif);
+	width:22px;
+	padding-left:0px;
+	padding-right:0px;
+}
+.bbcode .markItUpButton15 a	{
+	background-image:url(/templates/admin/images/smiles/tongue.gif);
+	width:22px;
+	padding-left:0px;
+	padding-right:0px;
+}
+.bbcode .markItUpButton16 a	{
+	background-image:url(/templates/admin/images/smiles/lol.gif);
+	width:22px;
+	padding-left:0px;
+	padding-right:0px;
+}
+.bbcode .markItUpButton17 a	{
+	background-image:url(/templates/admin/images/smiles/huh.gif);
+	width:22px;
+	padding-left:0px;
+	padding-right:0px;
+}
+.bbcode .markItUpButton18 a	{
+	background-image:url(/templates/admin/images/smiles/sad.gif);
+	width:22px;
+	padding-left:0px;
+	padding-right:0px;
+}
+.bbcode .markItUpButton19 a	{
+	background-image:url(/templates/admin/images/smiles/angry.gif);
+	width:22px;
+	padding-left:0px;
+	padding-right:0px;
+}
+.bbcode .markItUpButton20 a	{
+	background-image:url(/templates/admin/images/smiles/cool.gif);
+	width:22px;
+	padding-left:0px;
+	padding-right:0px;
+}
+.bbcode .markItUpButton21 a	{
+	background-image:url(/templates/admin/images/smiles/unsure.gif);
+	width:22px;
+	padding-left:0px;
+	padding-right:0px;
+}
+.bbcode .markItUpButton22 a	{
+	background-image:url(/templates/admin/images/smiles/ohmy.gif);
+	width:22px;
+	padding-left:0px;
+	padding-right:0px;
+}
+.bbcode .markItUpButton23 a	{
+	background-image:url(/templates/admin/images/smiles/blink.gif);
+	width:22px;
+	padding-left:0px;
+	padding-right:0px;
+}
+.bbcode .markItUpButton24 a	{
+	background-image:url(/templates/admin/images/smiles/shok.gif);
+	width:22px;
+	padding-left:0px;
+	padding-right:0px;
+}

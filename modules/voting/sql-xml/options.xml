@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<options>
+	<option>
+		<idgroup>0</idgroup>
+		<name>Вопрос</name>
+		<var>question</var>
+		<type>string</type>
+	</option>
+	<option>
+		<idgroup>0</idgroup>
+		<name>Дата начала</name>
+		<var>datebegin</var>
+		<type>int</type>
+	</option>
+	<option>
+		<idgroup>0</idgroup>
+		<name>Дата окончания</name>
+		<var>dateend</var>
+		<type>int</type>
+	</option>
+	<option>
+		<idgroup>0</idgroup>
+		<name>Активен</name>
+		<var>active</var>
+		<type>bool</type>
+	</option>
+</options>

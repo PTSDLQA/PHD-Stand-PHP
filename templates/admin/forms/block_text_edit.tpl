@@ -1,0 +1,1 @@
+{textarea name="b_content" rows=6 text=$form.content}

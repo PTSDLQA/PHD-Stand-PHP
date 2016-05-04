@@ -1,0 +1,1 @@
+ALTER TABLE `{section}` CHANGE `latname` `urlname` varchar(100) NOT NULL default '';

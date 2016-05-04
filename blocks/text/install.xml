@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<extension>
+	<type>block</type>
+	<id>text</id>
+	<name>Текст</name>
+	<version>2.0000</version>
+	<system>2.0600</system>
+	<sort>1</sort>
+</extension>

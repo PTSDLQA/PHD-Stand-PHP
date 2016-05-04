@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<extension>
+	<type>module</type>
+	<id>feedback</id>
+	<name>Обратная связь</name>
+	<version>2.0201</version>
+	<system>2.0707</system>
+	<sort>4</sort>
+</extension>

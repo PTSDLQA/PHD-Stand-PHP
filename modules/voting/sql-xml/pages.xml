@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<pages>
+	<page>
+		<id>main</id>
+		<name>Страница текущих результатов</name>
+		<template>voting_page.tpl</template>
+	</page>
+</pages>

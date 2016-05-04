@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<extension>
+	<type>block</type>
+	<id>links</id>
+	<name>Список ссылок</name>
+	<version>2.0010</version>
+	<system>2.0700</system>
+	<sort>3</sort>
+</extension>

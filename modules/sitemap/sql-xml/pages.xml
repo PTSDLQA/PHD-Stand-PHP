@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<pages>
+	<page>
+		<id>sitemap</id>
+		<name>Страница карты сайта</name>
+		<template>sitemap_page.tpl</template>
+	</page>
+</pages>

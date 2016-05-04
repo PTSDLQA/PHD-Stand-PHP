@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<options>
+	<option>
+		<idgroup>0</idgroup>
+		<name>Разделы в архиве</name>
+		<var>sections</var>
+		<type>string</type>
+	</option>
+	<option>
+		<idgroup>1</idgroup>
+		<name>Записей на странице (0 - все)</name>
+		<var>rows</var>
+		<value>10</value>
+		<type>int</type>
+	</option>
+</options>

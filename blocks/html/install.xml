@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<extension>
+	<type>block</type>
+	<id>html</id>
+	<name>HTML</name>
+	<version>2.0000</version>
+	<system>2.0600</system>
+	<sort>2</sort>
+</extension>

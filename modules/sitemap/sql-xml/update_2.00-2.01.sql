@@ -1,0 +1,1 @@
+UPDATE `{domain}_options` SET `options`=`value` WHERE item='{section}' AND var='sections';

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<pages>
+	<page>		
+		<id>main</id>
+		<name>Главная страница</name>
+		<template>catalog_main.tpl</template>
+	</page>
+	<page>		
+		<id>category</id>
+		<name>Страница категории</name>
+		<template>catalog_category.tpl</template>
+	</page>
+	<page>
+		<id>page</id>
+		<name>Детальная страница</name>
+		<template>catalog_page.tpl</template>
+	</page>
+</pages>

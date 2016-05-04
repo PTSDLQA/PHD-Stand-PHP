@@ -1,0 +1,157 @@
+<?xml version="1.0" encoding="utf-8"?>
+<options>
+	<option>
+		<idgroup>1</idgroup>
+		<name>На главной странице раздела</name>
+		<var>mainmode</var>
+		<value>1</value>
+		<type>select</type>
+		<options>Записи вне категорий</options>
+		<options>Все записи</options>
+	</option>
+	<option>
+		<idgroup>1</idgroup>
+		<name>Записей на главной странице раздела (0 - все)</name>
+		<var>mrows</var>
+		<value>10</value>
+		<type>int</type>
+	</option>
+	<option>
+		<idgroup>1</idgroup>
+		<name>Записей на странице категории (0 - все)</name>
+		<var>crows</var>
+		<value>10</value>
+		<type>int</type>
+	</option>
+	<option>
+		<idgroup>1</idgroup>
+		<name>Сортировка записей на страницах</name>
+		<var>sort</var>
+		<value>date DESC</value>
+		<type>select</type>
+		<options>
+			<name>По названию</name>
+			<date_DESC>По дате размещения вверх</date_DESC>
+			<date>По дате размещения вниз</date>
+			<vote_DESC>По оценке вверх</vote_DESC>
+			<sort>По заданному порядку</sort>
+		</options>
+	</option>
+	<option>
+		<idgroup>1</idgroup>
+		<name>Свое правило сортировки</name>
+		<var>mysort</var>
+		<type>string</type>
+		<superonly>Y</superonly>
+	</option>
+	<option>
+		<idgroup>2</idgroup>
+		<name>Использовать прикрепленные изображения</name>
+		<var>useimages</var>
+		<value>1</value>
+		<type>bool</type>
+	</option>
+	<option>
+		<idgroup>2</idgroup>
+		<name>Уменьшать при загрузке</name>
+		<var>img_resize</var>
+		<value>1</value>
+		<type>bool</type>
+	</option>
+	<option>
+		<idgroup>2</idgroup>
+		<name>Масштабировать по ширине</name>
+		<var>img_x</var>
+		<value>800</value>
+		<type>int</type>
+	</option>
+	<option>
+		<idgroup>2</idgroup>
+		<name>Масштабировать по высоте</name>
+		<var>img_y</var>
+		<type>int</type>
+	</option>
+	<option>
+		<idgroup>2</idgroup>
+		<name>Использовать прикрепленные файлы</name>
+		<var>usefiles</var>
+		<type>bool</type>
+		<refresh>Y</refresh>
+	</option>
+	<option>
+		<idgroup>3</idgroup>
+		<name>Использовать оценки</name>
+		<var>usevote</var>
+		<type>bool</type>
+		<refresh>Y</refresh>
+	</option>
+	<option>
+		<idgroup>3</idgroup>
+		<name>Использовать комментирование</name>
+		<var>usecomments</var>
+		<type>bool</type>
+		<refresh>Y</refresh>
+	</option>
+	<option>
+		<idgroup>3</idgroup>
+		<name>Премодерация комментариев</name>
+		<var>cactive</var>
+		<type>bool</type>
+	</option>
+	<option>
+		<idgroup>3</idgroup>
+		<name>Уведомление о новом комментарии на email</name>
+		<var>cemail</var>
+		<type>string</type>
+	</option>
+	<option>
+		<idgroup>3</idgroup>
+		<name>Шаблон письма-уведомления</name>
+		<var>commenttpl</var>
+		<value>newcomment.tpl</value>
+		<type>mailtpl</type>
+	</option>
+	<option>
+		<idgroup>4</idgroup>
+		<name>Использовать категории</name>
+		<var>usecats</var>
+        <value>1</value>
+		<type>bool</type>
+		<refresh>Y</refresh>
+	</option>
+	<option>
+		<idgroup>4</idgroup>
+		<name>Использовать визуальный редактор</name>
+		<var>fckeditor</var>
+		<value>1</value>
+		<type>bool</type>
+	</option>
+	<option>
+		<idgroup>4</idgroup>
+		<name>Использовать дату публикации</name>
+		<var>usedate</var>
+		<value>1</value>
+		<type>bool</type>
+	</option>
+	<option>
+		<idgroup>4</idgroup>
+		<name>Использовать теги (тематические метки)</name>
+		<var>usetags</var>
+		<type>bool</type>
+		<refresh>Y</refresh>
+	</option>
+	<option>
+		<idgroup>4</idgroup>
+		<name>Автогенерация аннотации</name>
+		<var>autoanons</var>
+		<value>1</value>
+		<type>bool</type>
+	</option>
+	<option>
+		<idgroup>4</idgroup>
+		<name>Длина автоаннотации</name>
+		<var>anonslen</var>
+		<value>350</value>
+		<type>int</type>
+	</option>
+</options>

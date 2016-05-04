@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<extension>
+	<type>module</type>
+	<id>gallery</id>
+	<name>Фотогалерея</name>
+	<version>2.0603</version>
+	<system>2.0707</system>
+	<sort>8</sort>
+</extension>

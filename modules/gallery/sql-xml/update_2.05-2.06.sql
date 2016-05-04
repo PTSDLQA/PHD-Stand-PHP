@@ -1,0 +1,1 @@
+ALTER TABLE `{section}_categories` ADD `tags` text NOT NULL default '';

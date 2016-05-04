@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<extension>
+	<type>block</type>
+	<id>cloud</id>
+	<name>Облако тегов</name>
+	<owner>search</owner>
+	<version>2.0003</version>
+	<system>2.0603</system>
+	<sort>12</sort>
+</extension>
